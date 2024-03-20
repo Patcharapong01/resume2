@@ -1,0 +1,83 @@
+body {
+    font-family: "Poppins", sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #240A34;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #891652;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.header-content {
+    background-color: #EABE6C;
+    color: #FFEDD8;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.profile-picture {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+}
+
+h1 {
+    margin: 5px 0;
+}
+
+li{
+    margin-left: 10px;
+    color: #FFEDD8;
+    margin-bottom: 5px;
+}
+
+.li2{
+    display: inline-block;
+    color: #FFEDD8;
+    margin-left: 15px;
+}
+
+.subtitle {
+    font-size: 18px;
+    margin-top: 5px;
+}
+
+.about, .education, .experience, .skills {
+    margin-bottom: 50px;
+}
+
+section h2 {
+    color: #FFEDD8;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.skills{
+    background-color: black;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+img{
+    margin-left: 10px;
+}
+footer {
+    text-align: center;
+    margin-top: 50px;
+    padding-top: 20px;
+    border-top: 1px solid #999;
+    color: #FFEDD8;
+}
